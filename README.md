@@ -17,8 +17,7 @@
 
 This section is a breakdown of the Repository for a new user of the program to understand and navigate through it. The next section will discuss how to run the actual program. The Project 2  `src` Folder will have the structure as shown in the picture below.
 
-![image](https://user-images.githubusercontent.com/64797254/114290184-9b14fa00-9a4b-11eb-9442-c7fd04d0434f.png)
-
+![image](https://user-images.githubusercontent.com/64797254/114290601-cc42f980-9a4e-11eb-819d-8704eb8f4939.png)
 
 Below is a quick breakdown of what is inside the `src` folder.
   - `linearRegression`
