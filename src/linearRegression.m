@@ -8,7 +8,7 @@
 %Matrix Coefficient Generation
 
 %Input Image for Coefficent Matrix Generation 
-coeff_img = 'coeff_img.jpeg';
+coeff_img = 'input_coeff_img.jpeg';
 input = double(imread(coeff_img));
 
 fprintf('Part 1: Simulating Mosaic Patches...\n\n')
@@ -43,7 +43,7 @@ fprintf('Part 2: Solving Linear Least Square Problems...\n\n')
 
 %Linear Regression
 
-input_img = 'input_img.jpeg';
+input_img = 'input_demosaic_img.jpeg';
 input = im2double(imread(input_img));
 
 
