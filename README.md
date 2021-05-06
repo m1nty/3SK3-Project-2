@@ -1,7 +1,4 @@
-# COMPENG 3SK3: Computer-Aided Engineering Project 2 #
-
-### Minhaj Shah / 400119266
-### April 10, 2021
+# Demosaicing with Linear Regression #
 
 
 ## Setup Instructions for MATLAB
